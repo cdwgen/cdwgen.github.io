@@ -1,10 +1,6 @@
-theme: jekyll-theme-slate
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
 title: CDW Genomics Projects
 description: Updates, info, and supplementary material for my projects
-
-# Optional
-permalink: /:title/
-
-# Fix the webpages being confined to 1/3 of the screen
-include:
-  - cdwgen.github.io/assets/css/custom.css
