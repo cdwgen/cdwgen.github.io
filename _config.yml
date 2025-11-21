@@ -7,7 +7,3 @@ description: Updates, info, and supplementary material for my projects
 
 # Optional permalink style
 permalink: /:title/
-
-# Optional custom CSS (for full-width iframes)
-include:
-  - assets/css/custom.css
