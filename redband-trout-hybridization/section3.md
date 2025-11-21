@@ -29,7 +29,7 @@ This inversion spans 30.1–60.4 Mb on chromosome 5. IRT shows the rearranged fo
 
 [Open Chr05_Inv1 in a new tab](plots/Chr05_Inv1.html){:target="_blank"}
 
-<iframe src="{{ '/assets/plots/Chr05_Inv1.html' | relative_url }}" width="100%" height="600px" style="border:none;"></iframe>
+<iframe src="/redband-trout-hybridization/assets/plots/Chr05_Inv1.html" width="100%" height="600px" style="border:none;"></iframe>
 
 ### Chr05 Inversion 2
 Second inversion on chromosome 5, spanning 60.4–87.5 Mb. Shows similar patterns to Chr05_Inv1.
