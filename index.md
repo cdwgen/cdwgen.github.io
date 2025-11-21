@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Home
+title: CDW Genomics Projects
 ---
 
-## Sections
+# Welcome
 
-- [About](about.md)
-- [Contact](contact.md)
+This site contains **interactive figures and supplementary material** for my genomics projects.
 
+## Projects
+
+- [Redband Trout Hybridization Dynamics](redband-trout-hybridization/)
