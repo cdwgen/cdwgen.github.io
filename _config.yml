@@ -8,6 +8,6 @@ description: Updates, info, and supplementary material for my projects
 # Optional permalink style
 permalink: /:title/
 
-# Optional custom CSS
+# Include custom CSS
 include:
   - assets/css/custom.css
