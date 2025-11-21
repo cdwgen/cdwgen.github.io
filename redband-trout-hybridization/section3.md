@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Interspecific Inversions
-include:
-  - head-custom.html
 ---
 
 [← Back to Redband Trout Hybridization Dynamics](index.md)
