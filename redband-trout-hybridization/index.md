@@ -3,6 +3,8 @@ layout: default
 title: Redband Trout Hybridization Dynamics
 ---
 
+[← Back to Home](https://cdwgen.github.io/)
+
 # Redband Trout Hybridization Dynamics
 
 This project explores hybridization dynamics between native Redband Trout, native Westslope Cutthroat Trout, invasive Coastal Rainbow Trout, and introduced Yellowstone Cuttroat Trout in the Kootenai River Basin in Northwest Montana using linkage maps and RAD-Capture data. 
