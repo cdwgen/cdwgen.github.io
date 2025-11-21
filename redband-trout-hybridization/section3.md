@@ -7,7 +7,7 @@ title: Interspecific Inversions
 
 # Interspecific Inversions
 
-Below is the location of interspecific chromosomal inversions within the Arlee strain Coastal Rainbow Trout genome assembly ([NCBI: GCF_013265735.2](https://www.ncbi.nlm.nih.gov/assembly/GCF_013265735.2/); [Gao et al., 2021](https://doi.org/10.1093/g3journal/jkab052)), their length, and calls on which form of the inversion each taxon carries based on previous studies and/or whole genome alignments to the Atlantic Salmon reference genome ([NCBI: GCF_905237065.1](https://www.ncbi.nlm.nih.gov/assembly/GCF_905237065.1/)). The orientations of Chr20 Inv and Omy22 Inv relative to Atlantic Salmon found here match previous observations in [Sutherland et al., 2016](https://doi.org/10.1093/gbe/evw262). Chromosome numbers are consistent between taxa based on [Flores et al., 2025](https://doi.org/10.1093/g3journal/jkaf064), so inversion names were made neutral for ease of description. Inversion forms for YCT are inferred based on observed interspecific recombination at species-diagnostic loci. For inversion form characterizations: A = ancestral; R = rearranged/derived; V = variable/not taxon-informative.
+Below is the location of interspecific chromosomal inversions within the Arlee strain Coastal Rainbow Trout genome assembly ([NCBI: GCF_013265735.2](https://www.ncbi.nlm.nih.gov/assembly/GCF_013265735.2/); [Gao et al. 2021](https://doi.org/10.1093/g3journal/jkab052)), their length, and calls on which form of the inversion each taxon carries based on previous studies and/or whole genome alignments to the Atlantic Salmon reference genome ([NCBI: GCF_905237065.1](https://www.ncbi.nlm.nih.gov/assembly/GCF_905237065.1/)). The orientations of Chr20 Inv and Chr22 Inv relative to Atlantic Salmon found here match previous observations in [Sutherland et al. 2016](https://doi.org/10.1093/gbe/evw262). Chromosome numbers are consistent between taxa based on [Flores et al. 2025](https://doi.org/10.1093/g3journal/jkaf064), so inversion names were made neutral for ease of description. Inversion forms for YCT are inferred based on observed interspecific recombination at species-diagnostic loci. For inversion form characterizations: A = ancestral; R = rearranged/derived; V = variable/not taxon-informative.
 
 | Inversion   | Chromosome | Start (bp) | End (bp) | Length (Mb) | IRT | CRT | WCT | YCT |
 |------------|------------|------------|----------|------------|-----|-----|-----|-----|
@@ -24,50 +24,53 @@ Below is the location of interspecific chromosomal inversions within the Arlee s
 ## 3D Interactive Plots
 The following interactive plots show that most interspecific inversions strongly differentiate Rainbow Trout taxa (IRT, CRT) and Cutthroat taxa. Plots are shown with the first 3 PC axes to highlight YCT ancestry on the third axis and to differentiate fish that are interspecific hybrids between RBT and WCT, RBT and YCT, or YCT and WCT.
 
-### Chr05 Inversion 1
-This inversion spans 30.1–60.4 Mb on chromosome 5. IRT shows the rearranged form, CRT is variable, and WCT/YCT are ancestral.
+### Chromosome 5 (Chr05) Inversion 1
+This is the first of two inversions in an inversion complex first characterized in on RBT chromosome 5 (Omy05) [Pearse et al. (2019)](https://doi.org/10.1038/s41559-019-1044-6). This inversion involves the centromere. IRT are fixed for the rearranged form, CRT are variable, and WCT/YCT are colinear with the RBT ancestral form.
 
 <iframe src="/redband-trout-hybridization/assets/plots/Chr05_Inv1.html" width="100%" height="600px" style="border:none;"></iframe>
 
 [Open Chr05_Inv1 in a new tab](plots/Chr05_Inv1.html){:target="_blank"}
 
-### Chr05 Inversion 2
-Second inversion on chromosome 5, spanning 60.4–87.5 Mb. Shows similar patterns to Chr05_Inv1.
+### Chromosome 5 (Chr05) Inversion 2
+The second inversion in the Chr05 complex. IRT are fixed for the rearranged form, CRT are variable, and WCT/YCT are colinear with the RBT ancestral form.
 
 <iframe src="/redband-trout-hybridization/assets/plots/Chr05_Inv2.html" width="100%" height="600px" style="border:none;"></iframe>
 
 [Open Chr05_Inv2 in a new tab](plots/Chr05_Inv2.html){:target="_blank"}
 
-### Chr13
-Small inversion on chromosome 13 (2.8 Mb). Shows variable orientation within and among species.
+### Chromosome 13 (Chr13) Inversion
+Small inversion on Chr13 that has variable orientation within populations and species groups. If real, this inversion is not species or subspecies informative.
 
 <iframe src="/redband-trout-hybridization/assets/plots/Chr13.html" width="100%" height="600px" style="border:none;"></iframe>
 
 [Open Chr13 in a new tab](plots/Chr13.html){:target="_blank"}
 
-### Chr17
-Inversion on chromosome 17 (7.8 Mb). IRT and CRT are ancestral; WCT and YCT are rearranged.
+### Chromosome 17 (Chr17) Inversion
+Inversion on chromosome 17 (7.8 Mb) found by alignment of Arlee and Swanson RBT reference genomes to the Connor Lake WCT reference genome ([NCBI: 
+GCF_045791955.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_045791955.1/); [Flores et al. 2025](https://doi.org/10.1093/g3journal/jkaf064)). Displays clear segregation between species. Recombinants between YCT and WCT are not clear but it is likely they share the same orientation. RBT carry the ancestral form; WCT and YCT are rearranged.
 
 <iframe src="/redband-trout-hybridization/assets/plots/Chr17.html" width="100%" height="600px" style="border:none;"></iframe>
 
 [Open Chr17 in a new tab](plots/Chr17.html){:target="_blank"}
 
-### Chr20
-Large inversion on chromosome 20 (16.8 Mb). Shows R in IRT/CRT, A in WCT/YCT.
+### Chromosome 20 (Chr20) Inversion
+Large inversion on chromosome 20 that involves the centromere. RBT carry the rearranged form; WCT are ancestral. YCT are likely ancestral as well, but no recombinatns were observed between the the two Cutthroat Trout taxa. 
+
+It should be noted that chromosome 20 in WCT (Ocla20) corresponds to a fusion of RBT chromosomes 20 and 28 (Omy20; Omy28) as shown in [Flores et al. 2025](https://doi.org/10.1093/g3journal/jkaf064). YCT also carry this same fusion rearrangment ([Ostberg et al. 2013](https://doi.org/10.1186/1471-2164-14-570); [Flores et al. 2025](https://doi.org/10.1093/g3journal/jkaf064)).
 
 <iframe src="/redband-trout-hybridization/assets/plots/Chr20.html" width="100%" height="600px" style="border:none;"></iframe>
 
 [Open Chr20 in a new tab](plots/Chr20.html){:target="_blank"}
 
-### Chr22
-Inversion on chromosome 22 (14.8 Mb). Rearranged in IRT/CRT, ancestral in WCT/YCT.
+### Chromosome 22 (Chr22) Inversion
+Inversion on chromosome 22 that involves the centromere. RBT carry the rearranged form; WCT and YCT are ancestral. Recombinants between WCT and YCT were observed.
 
 <iframe src="/redband-trout-hybridization/assets/plots/Chr22.html" width="100%" height="600px" style="border:none;"></iframe>
 
 [Open Chr22 in a new tab](plots/Chr22.html){:target="_blank"}
 
-### Chr29
-Inversion on chromosome 29 (11.9 Mb). WCT/YCT rearranged; IRT/CRT ancestral.
+### Chromosome 29 (Chr29) Inversion
+This is the sex chromosome in RBT (OmyY). This inversion was described as potentially being a complex of two paracentric inversions ([Flores et al. 2025](https://doi.org/10.1093/g3journal/jkaf064)), but linkage mapping analyses only found support for a single inversion relative to IRT. RBT carry the ancestral form; WCT and YCT are rearranged. Recombinants between WCT and YCT were observed.
 
 <iframe src="/redband-trout-hybridization/assets/plots/Chr29.html" width="100%" height="600px" style="border:none;"></iframe>
 
