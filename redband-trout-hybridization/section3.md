@@ -3,6 +3,8 @@ layout: default
 title: Interspecific Inversions
 ---
 
+[← Back to Redband Trout Hybridization Dynamics](index.md)
+
 # Interspecific Inversions
 
 Below is the location of interspecific chromosomal inversions within the Arlee strain Coastal Rainbow Trout genome assembly ([NCBI: GCF_013265735.2](https://www.ncbi.nlm.nih.gov/assembly/GCF_013265735.2/); [Gao et al., 2021](https://doi.org/10.1093/g3journal/jkab052)), their length, and calls on which form of the inversion each taxon carries based on previous studies and/or whole genome alignments to the Atlantic Salmon reference genome ([NCBI: GCF_905237065.1](https://www.ncbi.nlm.nih.gov/assembly/GCF_905237065.1/)). The orientations of Chr20 Inv and Omy22 Inv relative to Atlantic Salmon found here match previous observations in [Sutherland et al., 2016](https://doi.org/10.1093/gbe/evw262). Chromosome numbers are consistent between taxa based on [Flores et al., 2025](https://doi.org/10.1093/g3journal/jkaf064), so inversion names were made neutral for ease of description. Inversion forms for YCT are inferred based on observed interspecific recombination at species-diagnostic loci. For inversion form characterizations: A = ancestral; R = rearranged/derived; V = variable/not taxon-informative.
