@@ -46,7 +46,7 @@ Small inversion on Chr13 that has variable orientation within populations and sp
 [Open Chr13 in a new tab](plots/Chr13.html){:target="_blank"}
 
 ### Chromosome 17 (Chr17) Inversion
-Inversion on chromosome 17 (7.8 Mb) found by alignment of Arlee and Swanson RBT reference genomes to the Connor Lake WCT reference genome ([NCBI: 
+Inversion on Chr17 (7.8 Mb) found by alignment of Arlee and Swanson RBT reference genomes to the Connor Lake WCT reference genome ([NCBI: 
 GCF_045791955.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_045791955.1/); [Flores et al. 2025](https://doi.org/10.1093/g3journal/jkaf064)). Displays clear segregation between species. Recombinants between YCT and WCT are not clear but it is likely they share the same orientation. RBT carry the ancestral form; WCT and YCT are rearranged.
 
 <iframe src="/redband-trout-hybridization/assets/plots/Chr17.html" width="100%" height="600px" style="border:none;"></iframe>
@@ -54,7 +54,7 @@ GCF_045791955.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_045791955.1/);
 [Open Chr17 in a new tab](plots/Chr17.html){:target="_blank"}
 
 ### Chromosome 20 (Chr20) Inversion
-Large inversion on chromosome 20 that involves the centromere. RBT carry the rearranged form; WCT are ancestral. YCT are likely ancestral as well, but no recombinants were observed between the the two Cutthroat Trout taxa. 
+Large inversion on Chr20 that involves the centromere. RBT carry the rearranged form; WCT are ancestral. YCT are likely ancestral as well, but no recombinants were observed between the the two Cutthroat Trout taxa. 
 
 It should be noted that chromosome 20 in WCT (Ocla20) corresponds to a fusion of RBT chromosomes 20 and 28 (Omy20; Omy28) as shown in [Flores et al. 2025](https://doi.org/10.1093/g3journal/jkaf064). YCT also carry this same fusion rearrangment ([Ostberg et al. 2013](https://doi.org/10.1186/1471-2164-14-570); [Flores et al. 2025](https://doi.org/10.1093/g3journal/jkaf064)).
 
@@ -63,7 +63,7 @@ It should be noted that chromosome 20 in WCT (Ocla20) corresponds to a fusion of
 [Open Chr20 in a new tab](plots/Chr20.html){:target="_blank"}
 
 ### Chromosome 22 (Chr22) Inversion
-Inversion on chromosome 22 that involves the centromere. RBT carry the rearranged form; WCT and YCT are ancestral. Recombinants between WCT and YCT were observed.
+Inversion on Chr22 that involves the centromere. RBT carry the rearranged form; WCT and YCT are ancestral. Recombinants between WCT and YCT were observed.
 
 <iframe src="/redband-trout-hybridization/assets/plots/Chr22.html" width="100%" height="600px" style="border:none;"></iframe>
 
