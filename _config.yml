@@ -1,6 +1,6 @@
-# Theme controls the look of your site
 theme: jekyll-theme-slate
-
-# Your site title and description
 title: CDW Genomics Projects
 description: Updates, info, and supplementary material for my projects
+
+# Optional
+permalink: /:title/
