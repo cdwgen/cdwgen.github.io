@@ -1,9 +1,6 @@
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 
 title: CDW Genomics Projects
 description: Updates, info, and supplementary material for my projects
-
-# Optional permalink style
-permalink: /:title/
