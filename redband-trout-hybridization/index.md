@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Redband Trout Hybridization Dynamics
 ---
 
