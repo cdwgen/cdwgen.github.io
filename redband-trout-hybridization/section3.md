@@ -25,7 +25,7 @@ Below is the location of interspecific chromosomal inversions within the Arlee s
 The following interactive plots show that most interspecific inversions strongly differentiate Rainbow Trout taxa (IRT, CRT) and Cutthroat taxa. Plots are shown with the first 3 PC axes to highlight YCT ancestry on the third axis and to differentiate fish that are interspecific hybrids between RBT and WCT, RBT and YCT, or YCT and WCT.
 
 ### Chromosome 5 (Chr05) Inversion 1
-This is the first of two inversions in an inversion complex first characterized in on RBT chromosome 5 (Omy05) [Pearse et al. (2019)](https://doi.org/10.1038/s41559-019-1044-6). This inversion involves the centromere. IRT are fixed for the rearranged form, CRT are variable, and WCT/YCT are colinear with the RBT ancestral form.
+This is the first of two inversions in an inversion complex first characterized in [Pearse et al. (2019)](https://doi.org/10.1038/s41559-019-1044-6) on RBT chromosome 5 (Omy05). This inversion involves the centromere. IRT are fixed for the rearranged form, CRT are variable, and WCT/YCT are colinear with the RBT ancestral form.
 
 <iframe src="/redband-trout-hybridization/assets/plots/Chr05_Inv1.html" width="100%" height="600px" style="border:none;"></iframe>
 
