@@ -4,3 +4,7 @@ description: Updates, info, and supplementary material for my projects
 
 # Optional
 permalink: /:title/
+
+# Fix the webpages being confined to 1/3 of the screen
+include:
+  - assets/css/custom.css
