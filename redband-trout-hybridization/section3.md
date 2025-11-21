@@ -54,7 +54,7 @@ GCF_045791955.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_045791955.1/);
 [Open Chr17 in a new tab](plots/Chr17.html){:target="_blank"}
 
 ### Chromosome 20 (Chr20) Inversion
-Large inversion on chromosome 20 that involves the centromere. RBT carry the rearranged form; WCT are ancestral. YCT are likely ancestral as well, but no recombinatns were observed between the the two Cutthroat Trout taxa. 
+Large inversion on chromosome 20 that involves the centromere. RBT carry the rearranged form; WCT are ancestral. YCT are likely ancestral as well, but no recombinants were observed between the the two Cutthroat Trout taxa. 
 
 It should be noted that chromosome 20 in WCT (Ocla20) corresponds to a fusion of RBT chromosomes 20 and 28 (Omy20; Omy28) as shown in [Flores et al. 2025](https://doi.org/10.1093/g3journal/jkaf064). YCT also carry this same fusion rearrangment ([Ostberg et al. 2013](https://doi.org/10.1186/1471-2164-14-570); [Flores et al. 2025](https://doi.org/10.1093/g3journal/jkaf064)).
 
