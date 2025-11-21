@@ -12,11 +12,11 @@ Below are sections for project information, analyses, and interactive plots.
 
 ## Sections
 
-- [Background](section0.md)
-- [Sampling Locations](section1.md)
-- [The Genome Structure of Kootenai Redband](section2.md)
-- [Interspecific Inversions](section3.md)
-- [Intraspecific Inversions](section4.md)
-- [Global Ancestry](section5.md)
-- [Habitat Stratification and Chromosome 5 in Rainbow Trout](section6.md)
-- [Apparent Interspecific Hybrid Incompatability Tied to Chromosome 5](section7.md)
+- [Background](section0.html)
+- [Sampling Locations](section1.html)
+- [The Genome Structure of Kootenai Redband](section2.html)
+- [Interspecific Inversions](section3.html)
+- [Intraspecific Inversions](section4.html)
+- [Global Ancestry](section5.html)
+- [Habitat Stratification and Chromosome 5 in Rainbow Trout](section6.html)
+- [Apparent Interspecific Hybrid Incompatability Tied to Chromosome 5](section7.html)
