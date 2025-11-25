@@ -13,7 +13,7 @@ Sampling was conducted...
 
 ## Map of sampling locations color coded by drainage/waterbody
 
-Click on any pie chart to see collection metadata.
+Click on any point to see collection metadata.
 
 <iframe 
     src="/redband-trout-hybridization/assets/maps/sampling_locations_map.html"
