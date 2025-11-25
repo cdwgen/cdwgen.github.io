@@ -16,10 +16,10 @@ Global ancestry was...
 Click on any pie chart to see proportions and collection metadata.
 
 <iframe 
-    src="/redband-trout-hybridization/assets/ELAI_ancestry_map.html"
+    src="/redband-trout-hybridization/assets/maps/ELAI_ancestry_map.html"
     width="100%" 
     height="600px" 
     style="border:none;">
 </iframe>
 
-[Open map in a new tab](/redband-trout-hybridization/assets/ELAI_ancestry_map.html){:target="_blank"}
+[Open map in a new tab](/redband-trout-hybridization/assets/maps/ELAI_ancestry_map.html){:target="_blank"}
