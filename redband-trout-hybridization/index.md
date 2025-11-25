@@ -13,7 +13,7 @@ Below are sections for project information, analyses, and interactive plots.
 ## Sections
 
 - [Background](section0.md)
-- [Sampling Locations](Sampling_Locations.html)
+- [Sampling Locations](Sampling_Locations.md)
 - [Global Ancestry](Global_Ancestry.md)
 - [The Genome Structure of Kootenai Redband](section2.md)
 - [Interspecific Inversions](Interspecific_Inversions.md)
