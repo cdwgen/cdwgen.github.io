@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Interactive Maps
+title: Interactive Maps for Global Ancestry Estimates
 ---
 
 [← Back to Redband Trout Hybridization Dynamics](index.md)
