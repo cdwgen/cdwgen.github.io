@@ -15,7 +15,7 @@ Below are sections for project information, analyses, and interactive plots.
 - [Background](section0.md)
 - [Sampling Locations](Sampling_Locations.md)
 - [Global Ancestry](Global_Ancestry.md)
-- [The Genome Structure of Kootenai Redband](section2.md)
+- [The Genome Structure of Kootenai Redband](IRT_Genome_Structure.md)
 - [Interspecific Inversions](Interspecific_Inversions.md)
 - [Intraspecific Inversions](section4.md)
 - [Habitat Stratification and Chromosome 5 in Rainbow Trout](RBT_Habitat_Stratification.md)
