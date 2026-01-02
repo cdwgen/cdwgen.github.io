@@ -60,4 +60,6 @@ Kootenai IRT genome structure closely mirrors the Swanson CRT assembly...
 
 ## Download the linkage maps
 
-The maps used to create these alignments can be found [here]().
+The global map used to create these alignments can be found [here](https://github.com/cdwgen/Redband_Trout_Hybridization/blob/main/IRT_Linkage_Maps/RRBT_LinkageMap_Summary_061025.csv).
+
+Population specific maps are available [here](https://github.com/cdwgen/Redband_Trout_Hybridization/tree/main/IRT_Linkage_Maps/Population_Specific_Maps). For comparison of these maps, it should be noted that the catalog IDs (CatID or CatID_X columns) are consistent between all maps, but the Lepmap IDs are not.
