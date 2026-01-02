@@ -26,7 +26,7 @@ Kootenai IRT genome structure closely mirrors the Swanson CRT assembly...
 <iframe
   src="{{ '/redband-trout-hybridization/assets/pdfs/IRT_Global_v_Swanson_CRT_alignment_all_chromosomes.pdf' | relative_url }}"
   width="100%"
-  height="900px"
+  height="500px"
   style="border:none;">
 </iframe>
 
@@ -39,7 +39,7 @@ Kootenai IRT genome structure closely mirrors the Swanson CRT assembly...
 <iframe
   src="{{ '/redband-trout-hybridization/assets/pdfs/IRT_Global_v_Arlee_CRT_alignment_all_chromosomes.pdf' | relative_url }}"
   width="100%"
-  height="900px"
+  height="500px"
   style="border:none;">
 </iframe>
 
@@ -52,7 +52,7 @@ Kootenai IRT genome structure closely mirrors the Swanson CRT assembly...
 <iframe
   src="{{ '/redband-trout-hybridization/assets/pdfs/IRT_Global_v_ConnorLk_WCT_alignment_all_chromosomes.pdf' | relative_url }}"
   width="100%"
-  height="900px"
+  height="500px"
   style="border:none;">
 </iframe>
 
