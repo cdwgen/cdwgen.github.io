@@ -32,7 +32,7 @@ Chromosome 5 (Omy05) in Rainbow Trout shows extensive structural variation, incl
 
 ## Barplot of Chromosome 5 Inversion Frequencies
 
-![Chromosome 5 inversion frequencies](assets/images/Omy05_stacked_bar.pdf)
+![Chromosome 5 inversion frequencies](assets/images/Omy05_stacked_bar.png)
 
 Figure X. Mean genotype frequency by habitat type...
 
