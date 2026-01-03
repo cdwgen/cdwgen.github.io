@@ -13,7 +13,7 @@ Per-population genetic maps and the global consensus map were aligned to the Arl
 
 # Genome Structure of Kootenai Redband Trout
 
-The genome structure of Kootenai Basin IRT mirrors that of the Swanson CRT reference genome and all three populations examined have a haploid karyotype of 29 chromosomes. Alignment to the Swanson and Arlee CRT reference genomes shows that Kootenai IRT are homozygous for the derived form of the Chr05 complex found to be variable in some Rainbow Trout (RBT) populations ([Pearse et al. 2019](https://doi.org/10.1038/s41559-019-1044-6). Similarly to Arlee and Swanson, Kootenai IRT possess the derived form of the chromosome 20 (Omy20) intraspecific inversion found in northern populations of RBT ([Hale et al. 2024](https://doi.org/10.1093/g3journal/jkae100)). Maps showed no clear evidence of the intraspecific chromosome 26 inversion recently described in the Swanson RBT assembly ([Ali et al. 2025](https://doi.org/10.1038/s41597-025-04693-7)) in any population. A region of reduced recombination on chromosome 17 was apparent in alignments to the Arlee and Swanson assemblies, roughly in line with an intraspecific inversion described in [Ali et al. 2025 (preprint)](https://doi.org/10.1101/2025.10.11.681701). Curiously, this same pattern of reduced recombination was observed when the map was aligned to the Connor Lake WCT assembly. Alignment to WCT also showed interspecific inversions on chromosomes 20 (Chr20), 22 (Chr22), and 29 (Chr29) consistent with [Flores et al. (2025)](https://doi.org/10.1093/g3journal/jkaf064). 
+The genome structure of Kootenai Basin IRT mirrors that of the Swanson CRT reference genome and all three populations examined have a haploid karyotype of 29 chromosomes. Alignment to the Swanson and Arlee CRT reference genomes shows that Kootenai IRT are homozygous for the derived form of the chromosome 5 (Chr05) inversion complex found to be variable in some Rainbow Trout (RBT) populations ([Pearse et al. 2019](https://doi.org/10.1038/s41559-019-1044-6). Similarly to Arlee and Swanson, Kootenai IRT possess the derived form of the chromosome 20 (Omy20) intraspecific inversion found in northern populations of RBT ([Hale et al. 2024](https://doi.org/10.1093/g3journal/jkae100)). Maps showed no clear evidence of the intraspecific chromosome 26 inversion recently described in the Swanson RBT assembly ([Ali et al. 2025](https://doi.org/10.1038/s41597-025-04693-7)) in any population. A region of reduced recombination on chromosome 17 was apparent in alignments to the Arlee and Swanson assemblies, roughly in line with an intraspecific inversion described in [Ali et al. 2025 (preprint)](https://doi.org/10.1101/2025.10.11.681701). Curiously, this same pattern of reduced recombination was observed when the map was aligned to the Connor Lake WCT assembly. Alignment to WCT also showed interspecific inversions on chromosomes 20 (Chr20), 22 (Chr22), and 29 (Chr29) consistent with [Flores et al. (2025)](https://doi.org/10.1093/g3journal/jkaf064). 
 
 Below are alignments of the global IRT linkage map to each of the assemblies. Each panel represents a single linkage group (LG01–LG29) plotted against its corresponding chromosome in the assembly, with genetic position (cM) on the y-axis and physical position (Mb) on the x-axis. Marker strand orientation is indicated to highlight regions of colinearity and reversed orientation. Chromosome names in the RBT assemblies mirror Arlee chromosome nomenclature while the WCT chromosomes are numbed in accordence with the Connor Lake assembly. Linkage groups are numbered in accordance with the Swanson assembly.
 
@@ -21,7 +21,7 @@ Below are alignments of the global IRT linkage map to each of the assemblies. Ea
 
 ## Alignment to Swanson CRT Assembly
 
-Kootenai IRT genome structure closely mirrors the Swanson CRT assembly...
+Kootenai IRT genome structure closely mirrors the Swanson CRT assembly. All populations exhibited the 2n=29 karyotype and no obvious inversions relative to the Swanson assembly were observed though a region of low recombination was observed on chromosome 17 (see above).
 
 <iframe
   src="{{ '/redband-trout-hybridization/assets/pdfs/IRT_Global_v_Swanson_CRT_alignment_all_chromosomes.pdf' | relative_url }}"
@@ -34,7 +34,7 @@ Kootenai IRT genome structure closely mirrors the Swanson CRT assembly...
 
 ## Alignment to Arlee CRT Assembly
 
-...
+Relative to Arlee, Kootenai IRT have fusions of RBT chromosomes 4 and 30, 14 and 32, and 25 and 31. These appear as two chromosomes in a single plot on the alignments below. Additionally, the rearranged form of the Chr05 inversion complex is apparent in comparison the ancestral form found in the Arlee assembly.
 
 <iframe
   src="{{ '/redband-trout-hybridization/assets/pdfs/IRT_Global_v_Arlee_CRT_alignment_all_chromosomes.pdf' | relative_url }}"
@@ -47,7 +47,7 @@ Kootenai IRT genome structure closely mirrors the Swanson CRT assembly...
 
 ## Alignment to Connor Lake WCT Assembly
 
-...
+Relative to WCT, Kootenai IRT have all fusions, fissions, and inversions described in [Flores et al. (2025)](https://doi.org/10.1093/g3journal/jkaf064) (see above). The region of low recombination on chromosome 17 described above can also be seen in this comparison. 
 
 <iframe
   src="{{ '/redband-trout-hybridization/assets/pdfs/IRT_Global_v_ConnorLk_WCT_alignment_all_chromosomes.pdf' | relative_url }}"
