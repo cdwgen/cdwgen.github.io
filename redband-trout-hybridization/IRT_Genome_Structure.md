@@ -58,7 +58,7 @@ Relative to WCT, Kootenai IRT have all fusions, fissions, and inversions describ
 
 [Open Global Map vs Swanson Assembly in a new tab]({{ '/redband-trout-hybridization/assets/pdfs/IRT_Global_v_ConnorLk_WCT_alignment_all_chromosomes.pdf' | relative_url }}){:target="_blank"}
 
-## Download the linkage maps
+## Download the Linkage Maps:
 
 The global map used to create these alignments can be found [here](https://github.com/cdwgen/Redband_Trout_Hybridization/blob/main/IRT_Linkage_Maps/RRBT_LinkageMap_Summary_061025.csv).
 
